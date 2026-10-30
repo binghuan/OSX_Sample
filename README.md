@@ -1,5 +1,11 @@
 # macOS Development Sample Collection
 
+## Feature overview
+
+![OSX_Sample — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 This repository contains two demonstration projects showcasing JavaScript integration techniques with macOS applications.
 
 ## Project Overview
